@@ -7,7 +7,7 @@
 <img src="https://github.com/chevichelov/CONTROL_AMOLED/blob/main/IMG/MAIN.jpg" alt="Контролька с голосовым управлением, AI помощником, мобильным приложением и сенсорным AMOLED дисплеем" />
 
 <h2 align="center">Схема</h2>
-<img src="https://github.com/chevichelov/VOLTAMMETER_ESP8266/blob/main/IMG/SCHEMA.jpg" alt="Контролька с голосовым управлением, AI помощником, мобильным приложением и сенсорным AMOLED дисплеем" />
+<img src="https://github.com/chevichelov/CONTROL_AMOLED/blob/main/IMG/SCHEMA.jpg" alt="Контролька с голосовым управлением, AI помощником, мобильным приложением и сенсорным AMOLED дисплеем" />
 
 <h2 align="center">Видео инструкция</h2>
 <div align="center">
